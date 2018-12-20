@@ -19,5 +19,10 @@ class ViewController: UIViewController {
         // add something new
         
     }
+    
+    override func viewDidDisappear(_ animated: Bool) {
+        // add another event
+        
+    }
 }
 
