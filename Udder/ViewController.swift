@@ -24,5 +24,10 @@ class ViewController: UIViewController {
         // add another event
         
     }
+    
+    override func viewDidLayoutSubviews() {
+        // add a new event again
+        
+    }
 }
 
